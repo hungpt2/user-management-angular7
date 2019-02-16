@@ -1,0 +1,28 @@
+.actions-col {
+    width: 165px;
+    min-width: 165px;
+}
+
+table td {
+    vertical-align: middle;
+}
+
+.user-pagination,
+.user-table {
+    overflow: auto;
+}
+
+.table-opt {
+    span {
+        line-height: 35px;
+    }
+    select {
+        max-width: 80px;
+    }
+}
+
+.user-pagination {
+    ul {
+        justify-content: center;
+    }
+}
